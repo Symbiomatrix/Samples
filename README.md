@@ -1,2 +1,2 @@
 # Samples
-Various standalone pieces.
+Various standalone code pieces.
